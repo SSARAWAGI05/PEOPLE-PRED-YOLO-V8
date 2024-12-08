@@ -106,8 +106,3 @@ Shubam Sarawagi
 - Roboflow for dataset management
 - Google Colab for computational resources
 ```
-
-## Potential Improvements
-- Add support for multiple object classes
-- Implement real-time video streaming detection
-- Create a more comprehensive configuration system
